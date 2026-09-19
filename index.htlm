@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF Okuyucu - Gizlilik Politikası</title>
+</head>
+<body>
+    <h1>Gizlilik Politikası - PDF Okuyucu</h1>
+
+    <p><strong>Son güncelleme:</strong> 19 Eylül 2026</p>
+
+    <h2>1. Genel</h2>
+    <p>
+        PDF Okuyucu, kullanıcıların Android cihazlarında bulunan PDF dosyalarını
+        açmalarını ve görüntülemelerini sağlayan bir uygulamadır.
+    </p>
+
+    <h2>2. Hesap Bilgileri</h2>
+    <p>
+        PDF Okuyucu kullanmak için kullanıcı hesabı oluşturulması veya oturum açılması
+        gerekmemektedir.
+    </p>
+
+    <h2>3. PDF Dosyaları</h2>
+    <p>
+        Kullanıcının cihazından seçtiği PDF dosyaları uygulama tarafından
+        görüntülenmek amacıyla kullanılır. Uygulama, kullanıcı tarafından seçilen
+        PDF dosyasını görüntüleme amacı dışında kullanmaz.
+    </p>
+
+    <h2>4. Kişisel Veriler</h2>
+    <p>
+        PDF Okuyucu, kullanıcıdan doğrudan ad, soyad, telefon numarası veya hesap
+        bilgisi talep etmez.
+    </p>
+
+    <h2>5. Verilerin Paylaşılması</h2>
+    <p>
+        Kullanıcı tarafından uygulamada açılan PDF dosyaları üçüncü taraflarla
+        paylaşılmaz.
+    </p>
+
+    <h2>6. Veri Güvenliği</h2>
+    <p>
+        Kullanıcı bilgilerinin ve uygulama tarafından işlenen verilerin güvenliğine
+        önem verilmektedir.
+    </p>
+
+    <h2>7. Çocukların Gizliliği</h2>
+    <p>
+        Uygulama kullanıcılarından yaş, kimlik veya hesap bilgisi talep etmez.
+    </p>
+
+    <h2>8. Politika Değişiklikleri</h2>
+    <p>
+        Bu gizlilik politikası gerektiğinde güncellenebilir. Güncel sürüm bu sayfada
+        yayınlanır.
+    </p>
+
+    <h2>9. İletişim</h2>
+    <p>
+        Gizlilik politikası hakkında sorularınız için bizimle iletişime geçebilirsiniz.
+    </p>
+
+    <p>
+        <strong>Geliştirici:</strong> Torgen<br>
+        <strong>E-posta:</strong>
+        <a href="mailto:tugrulpek@gmail.com">tugrulpek@gmail.com</a>
+    </p>
+</body>
+</html>
